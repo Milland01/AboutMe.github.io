@@ -1,0 +1,23 @@
+
+
+
+body{
+    background-color:#EAF6F6;
+    max-width: 960px;
+    margin:auto;
+
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+
+h1,h3{
+  color: #66bfbf;
+}
+
+#image{
+  border-radius: 100%;
+}
